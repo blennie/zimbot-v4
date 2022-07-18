@@ -303,6 +303,7 @@ if (!('templateMsg' in setting)) setting.templateMsg = false
 if (!('templateList' in setting)) setting.templateList = false
 if (!('templateDoc' in setting)) setting.templateDoc = true
 if (!('chatbot' in setting)) setting.chatbot = false
+//if (!('antilinkall' in setting)) setting.antilinkall = true
 if (!('templateZimbot' in setting)) setting.templateZimbot = false
 if (!('grouponly' in setting)) setting.grouponly = false
 if (!('autoblock' in setting)) setting.autoblock = false
